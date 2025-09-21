@@ -1,7 +1,7 @@
 <h2>TensorFlow-FlexUNet-Image-Segmentation-Automated-Ischaemic-Stroke-NCCT (2025/09/21)</h2>
 Toshiyuki Arai<br>
 Software Laboratory antillia.com<br><br>
-This is the first experiment of Image Segmentation for AISD NCCT (Acute Ischaemic Stroke Dataset Non-Contrast CT) based on 
+This is the first experiment of Image Segmentation for AISD NCCT (Acute Ischemic Stroke Dataset Non-Contrast CT) based on 
 our <a href="./src/TensorFlowFlexUNet.py">TensorFlowFlexUNet</a>
  (<b>TensorFlow Flexible UNet Image Segmentation Model for Multiclass</b>)
  and a 512x512 pixels 
