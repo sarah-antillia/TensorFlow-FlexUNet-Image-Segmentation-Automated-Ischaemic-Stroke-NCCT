@@ -144,7 +144,7 @@ Please move to ./projects/TensorFlowFlexUNet/AISDand run the following bat file.
 <hr>
 
 <b>Model parameters</b><br>
-Defined a small base_filters = 16, large base_kernels = (9,9), and large diation = (3,3) for the first Conv Layer of Encoder Block of 
+Defined a small base_filters=16, large base_kernels=(9,9), and large dilation=(3,3) for the first Conv Layer of Encoder Block of 
 <a href="./src/TensorFlowUNet.py">TensorFlowUNet.py</a> 
 and a large num_layers (including a bridge between Encoder and Decoder Blocks).
 <pre>
