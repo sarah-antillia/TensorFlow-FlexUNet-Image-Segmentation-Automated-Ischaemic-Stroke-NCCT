@@ -29,21 +29,21 @@ our dataset appear similar to the ground truth masks, but they lack precision in
 <th>Prediction: inferred_mask</th>
 </tr>
 <tr>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/images/20324.png" width="320" height="320"></td>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/masks/20324.png" width="320" height="320"></td>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test_output/20324.png" width="320" height="320"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/images/20324.png" width="320" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/masks/20324.png" width="320" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test_output/20324.png" width="320" height="auto"></td>
 </tr>
 
 <tr>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/images/20336.png" width="320" height="320"></td>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/masks/20336.png" width="320" height="320"></td>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test_output/20336.png" width="320" height="320"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/images/20336.png" width="320" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/masks/20336.png" width="320" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test_output/20336.png" width="320" height="auto"></td>
 </tr>
 
 <tr>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/images/20540.png" width="320" height="320"></td>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/masks/20540.png" width="320" height="320"></td>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test_output/20540.png" width="320" height="320"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/images/20540.png" width="320" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/masks/20540.png" width="320" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test_output/20540.png" width="320" height="auto"></td>
 </tr>
 </table>
 
@@ -306,36 +306,36 @@ As shown below, this segmentation model failed to detect some Ischemia lesions.<
 </tr>
 
 <tr>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/images/20329.png" width="320" height="320"></td>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/masks/20329.png" width="320" height="320"></td>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test_output/20329.png" width="320" height="320"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/images/20329.png" width="320" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/masks/20329.png" width="320" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test_output/20329.png" width="320" height="auto"></td>
 </tr>
 
 <tr>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/images/20348.png" width="320" height="320"></td>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/masks/20348.png" width="320" height="320"></td>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test_output/20348.png" width="320" height="320"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/images/20348.png" width="320" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/masks/20348.png" width="320" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test_output/20348.png" width="320" height="auto"></td>
 </tr>
 
 <tr>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/images/20426.png" width="320" height="320"></td>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/masks/20426.png" width="320" height="320"></td>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test_output/20426.png" width="320" height="320"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/images/20426.png" width="320" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/masks/20426.png" width="320" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test_output/20426.png" width="320" height="auto"></td>
 </tr>
 <tr>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/images/20603.png" width="320" height="320"></td>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/masks/20603.png" width="320" height="320"></td>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test_output/20603.png" width="320" height="320"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/images/20603.png" width="320" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/masks/20603.png" width="320" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test_output/20603.png" width="320" height="auto"></td>
 </tr>
 <tr>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/images/20680.png" width="320" height="320"></td>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/masks/20680.png" width="320" height="320"></td>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test_output/20680.png" width="320" height="320"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/images/20680.png" width="320" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/masks/20680.png" width="320" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test_output/20680.png" width="320" height="auto"></td>
 </tr>
 <tr>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/images/20429.png" width="320" height="320"></td>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/masks/20429.png" width="320" height="320"></td>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test_output/20429.png" width="320" height="320"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/images/20429.png" width="320" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/masks/20429.png" width="320" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test_output/20429.png" width="320" height="auto"></td>
 </tr>
 </table>
 <hr>
