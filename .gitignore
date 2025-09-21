@@ -6,7 +6,7 @@ __pycache__/
 # 2025/09/21
 dataset/
 projects/*/*/models/
-projects/*/*/mini_test/
+
 projects/*/*/epoch_change_infer/
 generator/
 
