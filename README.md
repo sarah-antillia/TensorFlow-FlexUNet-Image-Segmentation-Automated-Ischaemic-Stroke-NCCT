@@ -106,7 +106,9 @@ such as academic research, teaching, scientific publications, or personal experi
         └─masks
 </pre>
 In order to generate this dataset,we excluded all black empty masks and their corresponding images,
- which were really irrelevant for training our segmentation model, from the original image and mask dataset.
+ which were really irrelevant for training our segmentation model, from the original datasets <br>
+<a href="https://drive.google.com/file/d/157f9aE3ZhRSdIuIbP2PRG8ub9JJWvMGk/view?usp=share_link">image.zip</a><br>
+<a href="https://drive.google.com/file/d/1d08fFpEvK4D6YTKfRlNuv_OlIxigZxl6/view?usp=share_link">mask.zip</a><br>
 Commercial use of this dataset is prohibited.
 <br><br>
 <b>AISD Statistics</b><br>
