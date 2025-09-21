@@ -29,21 +29,21 @@ our dataset appear similar to the ground truth masks, but they lack precision in
 <th>Prediction: inferred_mask</th>
 </tr>
 <tr>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/images/20324.png" width="320" height="auto"></td>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/masks/20324.png" width="320" height="auto"></td>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test_output/20324.png" width="320" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/images/20324.png" width="320" height="320"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/masks/20324.png" width="320" height="320"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test_output/20324.png" width="320" height="320"></td>
 </tr>
 
 <tr>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/images/20336.png" width="320" height="auto"></td>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/masks/20336.png" width="320" height="auto"></td>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test_output/20336.png" width="320" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/images/20336.png" width="320" height="320"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/masks/20336.png" width="320" height="320"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test_output/20336.png" width="320" height="320"></td>
 </tr>
 
 <tr>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/images/20540.png" width="320" height="auto"></td>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/masks/20540.png" width="320" height="auto"></td>
-<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test_output/20540.png" width="320" height="auto"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/images/20540.png" width="320" height="320"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test/masks/20540.png" width="320" height="320"></td>
+<td><img src="./projects/TensorFlowFlexUNet/AISD/mini_test_output/20540.png" width="320" height="320"></td>
 </tr>
 </table>
 
